@@ -1,4 +1,4 @@
-##​#​ ​Kanada 🍦 
+​#​ ​Kanada 🍦 
    ​![​Profile Count​](https://komarev.com/ghpvc/?username=TheKanada&color=red)​&nbsp; 
     ​[![​GitHub Kanada​](https://img.shields.io/github/followers/TheKanada?label=follow&style=social)](https://github.com/TheKanada)​&nbsp; 
      ​<a href="https://discord.com/users/919280163756343296"><img alt="Discord" src="https://img.shields.io/badge/@Kanada-2f3236?style=flat&logo=discord&logoColor=blue" /></a> ​&nbsp; 
